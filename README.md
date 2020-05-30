@@ -2,7 +2,7 @@
 Tic Tac Toe game for andoird
 
 
-#Screenshots
+# Screenshots
 
 
 <table>
