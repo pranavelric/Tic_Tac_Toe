@@ -1,6 +1,8 @@
 # Tic_Tac_Toe
 Tic Tac Toe game for andoird
 
+<img src="https://forthebadge.com/images/badges/made-with-java.svg"/>
+<img src="https://forthebadge.com/images/badges/built-for-android.svg"/>
 
 # Screenshots
 
